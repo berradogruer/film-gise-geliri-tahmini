@@ -1,0 +1,9 @@
+﻿Model,Train R²,Test R²,R² Farkı,Log MAE,Log RMSE,Gelir MAE (Milyon $),Gelir RMSE (Milyon $),Tahmin Süresi (sn)
+Tuned Extra Trees,0.7707,0.5434,0.2273,1.6039,2.304,49.92,124.68,0.2775
+Default Extra Trees,1.0,0.536,0.464,1.617,2.3227,46.83,112.29,0.2918
+Tuned Random Forest,0.6602,0.521,0.1392,1.6914,2.3599,47.94,115.72,0.241
+Tuned Gradient Boosting,0.6165,0.5195,0.097,1.6975,2.3636,53.09,132.38,0.0376
+Default Gradient Boosting,0.6516,0.5118,0.1399,1.7078,2.3825,52.9,132.52,0.0326
+Default Random Forest,0.9254,0.5106,0.4148,1.7017,2.3853,47.32,112.19,0.28
+Lasso,0.4727,0.5064,-0.0337,1.6944,2.3955,56.46,143.35,0.0353
+Tuned Decision Tree,0.4678,0.3732,0.0947,1.8809,2.6996,50.74,126.12,0.019
